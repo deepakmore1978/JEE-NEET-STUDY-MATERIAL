@@ -94,51 +94,102 @@ PHYSICS, CHEMISTRY,BIOLOGY AND MATHEMATICS JEE/NEET STUDY MATERIAL
         <section id="XII CHEMISTRY">
             <h2>XII CHEMISTRY</h2>
             <ul>
-                <li><a href="https://drive.google.com/file/d/1Qmuts7OPAdwG13ror-aEaYRk_hmKuj7z/view?usp=sharing">TEST 01</a></li>
-                <li><a href="https://drive.google.com/file/d/1kQJ-ZBcBnSrYoEkdISCp_l-Xu2tNSU3U/view?usp=sharing">TEST 01 Solution</a></li>
-                <li><a href="https://drive.google.com/file/d/1sfBiYB5qZJXjyiIe2s_IHJZ6rGYtWgmh/view?usp=sharing">TEST 02</a></li>
-                <li><a href="https://drive.google.com/file/d/1_yr1v8FOL2fdWLsQiIxl2i8MSyvrEnTX/view?usp=sharing">TEST 02 Solution</a></li>
+                <li><a href="">THE SOLID STATE</a></li>
+                <li><a href="">SOLUTIONS</a></li>
+                <li><a href="">ELECTROCHEMISTRY</a></li>
+                <li><a href="">CHEMICAL KINETICS</a></li>
+                <li><a href="">SURFACE CHEMISTRY</a></li>
+                <li><a href="">GENERAL PRINCIPLES AND PROCESSES OF ISOLATION OF ELEMENTS</a></li>
+                <li><a href="">THE P-BLOCK ELEMENTS</a></li>
+                <li><a href="">THE D-AND F-BLOCK ELEMENTS</a></li>
+                <li><a href="">COORDINATION COMPOUNDS</a></li>
+                <li><a href="">HALOALKANES AND HALOARENES</a></li>
+                <li><a href="">ALCOHOLS, PHENOLS AND ETHERS</a></li>
+                <li><a href="">ALDEHYDES, KETONES AND CARBOXYLIC ACIDS</a></li>
+                <li><a href="">AMINES</a></li>
+                <li><a href="">BIOMOLECULES</a></li>
+                <li><a href="">POLYMERS</a></li>
+                <li><a href="">CHEMISTRY IN EVERYDAY LIFE</a></li>
             </ul>
         </section>
         <section id="XI BIOLOGY">
             <h2>XI BIOLOGY</h2>
             <ul>
-                <li><a href="https://drive.google.com/file/d/1ONYE0a1CCu9nJJsfylbbmeCY8m1tn_Eg/view?usp=sharing">TEST 01</a></li>
-                <li><a href="https://drive.google.com/file/d/12Si747wFnEj5NpGX0EeeSQK8kt_Vlj_m/view?usp=sharing">TEST 01 SOLUTION</a></li>
-                <li><a href="https://drive.google.com/file/d/14JqcWc2YO8hpdLjzCB-7Gp08dzLDxVp2/view?usp=sharing">TEST 02</a></li>
-                <li><a href="https://drive.google.com/file/d/1ar6_aBJq_cpouCTriyZnMLc5BW7yAxlR/view?usp=sharing">TEST 02 SOLUTION</a></li>
-                <li><a href="https://drive.google.com/file/d/1lQU1b8ROKQ_lRMEdTsmcMRxiXq7L_Nkn/view?usp=sharing">TEST 03</a></li>
-                <li><a href="https://drive.google.com/file/d/1pIYMNm-hkdDTnm7NZ_lVU9sW3cr0kynH/view?usp=sharing">TEST 03 SOLUTION</a></li>
+                <li><a href="">ELECTRIC CHARGE AND FIELDS</a></li>
+                <li><a href="">ELECTROSTATICS POTENTIAL AND CAPACITANCE</a></li>
+                <li><a href="">CURRENT ELECTRICITY</a></li>
+                <li><a href="">MOVING CHARGES AND MAGNETISM</a></li>
+                <li><a href="">MAGNETISM AND MATTER</a></li>
+                <li><a href="">ELECTROMAGNETIC INDUCTION</a></li>
+                <li><a href="">ALTERNATING CURRENT</a></li>
+                <li><a href="">ELECTROMAGNETIV WAVES</a></li>
+                <li><a href="">RAY OPTICS AND OPTICAL INSTRUMENTS</a></li>
+                <li><a href="">WAVE OPTICS</a></li>
+                <li><a href="">DUAL NATURE OF RADIATION AND MATTER</a></li>
+                <li><a href="">ATOMS</a></li>
+                <li><a href="">NUCLEI</a></li>
+                <li><a href="">SEMICONDUCTOR ELECTRONIC DEVICES</a></li>
+                <li><a href="">COMMUNICATION SYSTEM</a></li>
            </ul>
         </section>
         <section id="XII BIOLOGY">
             <h2>XII BIOLOGY</h2>
             <ul>
-                <li><a href="">TEST 01</a></li>
-                <li><a href="">TEST 02</a></li>
-                <li><a href="">TET 03</a></li>
+                <li><a href="">ELECTRIC CHARGE AND FIELDS</a></li>
+                <li><a href="">ELECTROSTATICS POTENTIAL AND CAPACITANCE</a></li>
+                <li><a href="">CURRENT ELECTRICITY</a></li>
+                <li><a href="">MOVING CHARGES AND MAGNETISM</a></li>
+                <li><a href="">MAGNETISM AND MATTER</a></li>
+                <li><a href="">ELECTROMAGNETIC INDUCTION</a></li>
+                <li><a href="">ALTERNATING CURRENT</a></li>
+                <li><a href="">ELECTROMAGNETIV WAVES</a></li>
+                <li><a href="">RAY OPTICS AND OPTICAL INSTRUMENTS</a></li>
+                <li><a href="">WAVE OPTICS</a></li>
+                <li><a href="">DUAL NATURE OF RADIATION AND MATTER</a></li>
+                <li><a href="">ATOMS</a></li>
+                <li><a href="">NUCLEI</a></li>
+                <li><a href="">SEMICONDUCTOR ELECTRONIC DEVICES</a></li>
+                <li><a href="">COMMUNICATION SYSTEM</a></li>
            </ul>
         </section>
         <section id="XI MATHEMATICS">
             <h2>XI MATHEMATICS</h2>
             <ul>
-                <li><a href="https://drive.google.com/file/d/1Du7xyR0jAC51dDDgduqgO_sNaZDzxiqb/view?usp=sharing">TEST 01</a></li>
-                <li><a href="https://drive.google.com/file/d/1P5JhGQSF8gmSbopULQG7qcb7y1r0EUey/view?usp=sharing">TEST 01 SOLUTION</a></li>
-                <li><a href="https://drive.google.com/file/d/1xE0gd2x1cRXLTdcgRpUXq0q4eQQtnJpY/view?usp=sharing">TEST 02</a></li>
-                <li><a href="https://drive.google.com/file/d/1ngkq5doRUxjwyx3WfArVknKN1ynjoJtR/view?usp=sharing">TEST 02 SOLUTION</a></li>
-                <li><a href="https://drive.google.com/file/d/10o-8Exn6vjuRjx2-3VWow6PfjGE10wfm/view?usp=sharing">TEST 03</a></li>
-                <li><a href="https://drive.google.com/file/d/1EcR4vVYAL-AUdjPlCKDqcUd7wSieQmoe/view?usp=sharing">TEST 03 SOLUTION</a></li>
+                <li><a href="">ELECTRIC CHARGE AND FIELDS</a></li>
+                <li><a href="">ELECTROSTATICS POTENTIAL AND CAPACITANCE</a></li>
+                <li><a href="">CURRENT ELECTRICITY</a></li>
+                <li><a href="">MOVING CHARGES AND MAGNETISM</a></li>
+                <li><a href="">MAGNETISM AND MATTER</a></li>
+                <li><a href="">ELECTROMAGNETIC INDUCTION</a></li>
+                <li><a href="">ALTERNATING CURRENT</a></li>
+                <li><a href="">ELECTROMAGNETIV WAVES</a></li>
+                <li><a href="">RAY OPTICS AND OPTICAL INSTRUMENTS</a></li>
+                <li><a href="">WAVE OPTICS</a></li>
+                <li><a href="">DUAL NATURE OF RADIATION AND MATTER</a></li>
+                <li><a href="">ATOMS</a></li>
+                <li><a href="">NUCLEI</a></li>
+                <li><a href="">SEMICONDUCTOR ELECTRONIC DEVICES</a></li>
+                <li><a href="">COMMUNICATION SYSTEM</a></li>
            </ul>
         </section>
         <section id="XII MATHEMATICS">
             <h2>XII MATHEMATICS</h2>
             <ul>
-                <li><a href="https://drive.google.com/file/d/1_d3B91BKycYSJywoBIYj7BxljhzlsuQs/view?usp=sharing">TEST 01</a></li>
-                <li><a href="https://drive.google.com/file/d/1Ke7t_gvHZMCsp3oBBk1Z1COO2mfWnYo9/view?usp=sharing">TEST 01 SOLUTION</a></li>
-                <li><a href="https://drive.google.com/file/d/1MM-orIiC3dYlr8BnkN6-CjHtRooLOGCa/view?usp=sharing">TEST 02</a></li>
-                <li><a href="https://drive.google.com/file/d/1d2vXHy-bLBsfpv5IfpsUsoZANiy3rQVa/view?usp=sharing">TEST 02 SOLUTION</a></li>
-                <li><a href="https://drive.google.com/file/d/1Q2S8CbjAetb3AohCBdcKkKbWDrzPtob1/view?usp=sharing">TEST 03</a></li>
-                <li><a href="https://drive.google.com/file/d/1fITVsQqZuxaFOoVMsNXayHB80i5x8l_-/view?usp=sharing">TEST 03 SOLUTION</a></li>
+                <li><a href="">ELECTRIC CHARGE AND FIELDS</a></li>
+                <li><a href="">ELECTROSTATICS POTENTIAL AND CAPACITANCE</a></li>
+                <li><a href="">CURRENT ELECTRICITY</a></li>
+                <li><a href="">MOVING CHARGES AND MAGNETISM</a></li>
+                <li><a href="">MAGNETISM AND MATTER</a></li>
+                <li><a href="">ELECTROMAGNETIC INDUCTION</a></li>
+                <li><a href="">ALTERNATING CURRENT</a></li>
+                <li><a href="">ELECTROMAGNETIV WAVES</a></li>
+                <li><a href="">RAY OPTICS AND OPTICAL INSTRUMENTS</a></li>
+                <li><a href="">WAVE OPTICS</a></li>
+                <li><a href="">DUAL NATURE OF RADIATION AND MATTER</a></li>
+                <li><a href="">ATOMS</a></li>
+                <li><a href="">NUCLEI</a></li>
+                <li><a href="">SEMICONDUCTOR ELECTRONIC DEVICES</a></li>
+                <li><a href="">COMMUNICATION SYSTEM</a></li>
            </ul>
         </section>
         </main>
