@@ -48,31 +48,22 @@ PHYSICS, CHEMISTRY,BIOLOGY AND MATHEMATICS JEE/NEET STUDY MATERIAL
         <section id="XII PHYSICS">
             <h2>XII PHYSICS</h2>
             <ul>
-                <li><a href="">TEST 01</a></li>
-                <li><a href="">TEST 01 SOLUTION</a></li>
-                <li><a href="">TEST 02</a></li>
-                <li><a href="">TEST 02 SOLUTION</a></li>
-                <li><a href="">TEST 03</a></li>
-                <li><a href="">TEST 03 SOLUTION</a></li>
-                <li><a href="">TEST 04</a></li>
-                <li><a href="">TEST 04 SOLUTION</a></li>
-                <li><a href="">TEST 05</a></li>
-                <li><a href="">TEST 05 SOLUTION</a></li>
-                <li><a href="">TEST 06</a></li>
-                <li><a href="">TEST 06 SOLUTION</a></li>
-                <li><a href="">TEST 07</a></li>
-                <li><a href="">TEST 07 SOLUTION</a></li>
-                <li><a href="">TEST 08</a></li>
-                <li><a href="">TEST 08 SOLUTION</a></li>
-                <li><a href="">TEST 09</a></li>
-                <li><a href="">TEST 09 SOLUTION</a></li>
-                <li><a href="">TEST 10</a></li>
-                <li><a href="">TEST 10 SOLUTION</a></li>
-                <li><a href="">TEST 11</a></li>
-                <li><a href="">TEST 11 SOLUTION</a></li>
-                <li><a href="">TEST 12</a></li>
-                <li><a href="">TEST 12 SOLUTION</a></li>
-           </ul>
+                <li><a href="">ELECTRIC CHARGE AND FIELDS</a></li>
+                <li><a href="">ELECTROSTATICS POTENTIAL AND CAPACITANCE</a></li>
+                <li><a href="">CURRENT ELECTRICITY</a></li>
+                <li><a href="">MOVING CHARGES AND MAGNETISM</a></li>
+                <li><a href="">MAGNETISM AND MATTER</a></li>
+                <li><a href="">ELECTROMAGNETIC INDUCTION</a></li>
+                <li><a href="">ALTERNATING CURRENT</a></li>
+                <li><a href="">ELECTROMAGNETIV WAVES</a></li>
+                <li><a href="">RAY OPTICS AND OPTICAL INSTRUMENTS</a></li>
+                <li><a href="">WAVE OPTICS</a></li>
+                <li><a href="">DUAL NATURE OF RADIATION AND MATTER</a></li>
+                <li><a href="">ATOMS</a></li>
+                <li><a href="">NUCLEI</a></li>
+                <li><a href="">SEMICONDUCTOR ELECTRONIC DEVICES</a></li>
+                <li><a href="">COMMUNICATION SYSTEM</a></li>
+            </ul>
         </section>
         <section id="XI CHEMISTRY">
             <h2>XI CHEMISTRY</h2>
