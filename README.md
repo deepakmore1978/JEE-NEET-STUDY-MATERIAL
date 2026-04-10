@@ -26,16 +26,16 @@ PHYSICS, CHEMISTRY,BIOLOGY AND MATHEMATICS JEE/NEET STUDY MATERIAL
         </nav>
     </header>
     <main>
-         <section id="NEET PREVIOUS QUES.BANK">
-            <h2>NEET PREVIOUS QUES.BANK</h2>
+         <section id="XI PHYSICS">
+            <h2>XI PHYSICS</h2>
             <ul>
                 <li><a href="https://drive.google.com/file/d/1tczogcLAQWb5G-8TKNDPA1yAGWnnPexx/view?usp=sharing">PHYSICS PYQ</a></li>
                 <li><a href="https://drive.google.com/file/d/1yOVYuJ8u29F8DBZ8F5-YAPhsRvQsDExL/view?usp=sharing">CHEMISTRY PYQ</a></li>
                 <li><a href="https://drive.google.com/file/d/1rr9WNbUfIjSeSAwDoceP_83HBa-kVFBX/view?usp=sharing">BIOLOGY PYQ</a></li>
            </ul>
         </section>
-        <section id="MOTION">
-            <h2>MOTION NLM</h2>
+        <section id="XII PHYSICS">
+            <h2>XII PHYSICS</h2>
             <ul>
                 <li><a href="https://drive.google.com/file/d/1FyiughVNEVZixN2xxptlNO-Et4QX8wqY/view?usp=sharing">TEST 01</a></li>
                 <li><a href="https://drive.google.com/file/d/1ZEGqxBoSdfOkxSqyLfhVgtP-tEh7JoX8/view?usp=sharing">TEST 01 SOLUTION</a></li>
@@ -63,8 +63,8 @@ PHYSICS, CHEMISTRY,BIOLOGY AND MATHEMATICS JEE/NEET STUDY MATERIAL
                 <li><a href="https://drive.google.com/file/d/1GwbdGin83RePBXLrHKYJbz-evFDVyrqe/view?usp=sharing">TEST 12 SOLUTION</a></li>
            </ul>
         </section>
-        <section id="CH01 Rotational Dynamics">
-            <h2>XII CHP 01 Rotational Dynamics</h2>
+        <section id="XI CHEMISTRY">
+            <h2>XI CHEMISTRY</h2>
             <ul>
                 <li><a href="https://drive.google.com/file/d/13tkHH0VRxsbXg7LIXwYvlKtuEoqK9iRc/view?usp=sharing">TEST 01</a></li>
                 <li><a href="https://drive.google.com/file/d/13WHD7QoyiL4758RpNf7rZPmI5q92kPX4/view?usp=sharing">TEST 01 Solution</a></li>
@@ -74,8 +74,8 @@ PHYSICS, CHEMISTRY,BIOLOGY AND MATHEMATICS JEE/NEET STUDY MATERIAL
                 <li><a href="https://drive.google.com/file/d/18aNSiX6tIb2TjcWgRdqOkdSO_mmwS-Br/view?usp=sharing">SOLUTION TEST 03</a></li>
           </ul>
         </section>
-        <section id="CH02 Mechanical Properties of Fluids">
-            <h2>XII CHP 02 Mechanical Properties of Fluids</h2>
+        <section id="XII CHEMISTRY">
+            <h2>XII CHEMISTRY</h2>
             <ul>
                 <li><a href="https://drive.google.com/file/d/1Qmuts7OPAdwG13ror-aEaYRk_hmKuj7z/view?usp=sharing">TEST 01</a></li>
                 <li><a href="https://drive.google.com/file/d/1kQJ-ZBcBnSrYoEkdISCp_l-Xu2tNSU3U/view?usp=sharing">TEST 01 Solution</a></li>
@@ -83,8 +83,8 @@ PHYSICS, CHEMISTRY,BIOLOGY AND MATHEMATICS JEE/NEET STUDY MATERIAL
                 <li><a href="https://drive.google.com/file/d/1_yr1v8FOL2fdWLsQiIxl2i8MSyvrEnTX/view?usp=sharing">TEST 02 Solution</a></li>
             </ul>
         </section>
-        <section id="CH03 Kinetic Theory OF Gases">
-            <h2>XII CHP 03 Kinetic Theory OF Gases</h2>
+        <section id="XI BIOLOGY">
+            <h2>XI BIOLOGY</h2>
             <ul>
                 <li><a href="https://drive.google.com/file/d/1ONYE0a1CCu9nJJsfylbbmeCY8m1tn_Eg/view?usp=sharing">TEST 01</a></li>
                 <li><a href="https://drive.google.com/file/d/12Si747wFnEj5NpGX0EeeSQK8kt_Vlj_m/view?usp=sharing">TEST 01 SOLUTION</a></li>
@@ -94,16 +94,16 @@ PHYSICS, CHEMISTRY,BIOLOGY AND MATHEMATICS JEE/NEET STUDY MATERIAL
                 <li><a href="https://drive.google.com/file/d/1pIYMNm-hkdDTnm7NZ_lVU9sW3cr0kynH/view?usp=sharing">TEST 03 SOLUTION</a></li>
            </ul>
         </section>
-        <section id="CH04 Thermodynamics">
-            <h2>XII CHP 04 Thermodynamics</h2>
+        <section id="XII BIOLOGY">
+            <h2>XII BIOLOGY</h2>
             <ul>
                 <li><a href="">TEST 01</a></li>
                 <li><a href="">TEST 02</a></li>
                 <li><a href="">TET 03</a></li>
            </ul>
         </section>
-        <section id="CH05 Oscillation">
-            <h2>XII CHP 05 Oscillation</h2>
+        <section id="XI MATHEMATICS">
+            <h2>XI MATHEMATICS</h2>
             <ul>
                 <li><a href="https://drive.google.com/file/d/1Du7xyR0jAC51dDDgduqgO_sNaZDzxiqb/view?usp=sharing">TEST 01</a></li>
                 <li><a href="https://drive.google.com/file/d/1P5JhGQSF8gmSbopULQG7qcb7y1r0EUey/view?usp=sharing">TEST 01 SOLUTION</a></li>
@@ -113,8 +113,8 @@ PHYSICS, CHEMISTRY,BIOLOGY AND MATHEMATICS JEE/NEET STUDY MATERIAL
                 <li><a href="https://drive.google.com/file/d/1EcR4vVYAL-AUdjPlCKDqcUd7wSieQmoe/view?usp=sharing">TEST 03 SOLUTION</a></li>
            </ul>
         </section>
-        <section id="CH06 Superposition Of Waves">
-            <h2>XII CHP 06 Superposition Of Waves</h2>
+        <section id="XII MATHEMATICS">
+            <h2>XII MATHEMATICS</h2>
             <ul>
                 <li><a href="https://drive.google.com/file/d/1_d3B91BKycYSJywoBIYj7BxljhzlsuQs/view?usp=sharing">TEST 01</a></li>
                 <li><a href="https://drive.google.com/file/d/1Ke7t_gvHZMCsp3oBBk1Z1COO2mfWnYo9/view?usp=sharing">TEST 01 SOLUTION</a></li>
