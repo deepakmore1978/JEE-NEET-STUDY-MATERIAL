@@ -14,6 +14,7 @@ PHYSICS, CHEMISTRY,BIOLOGY AND MATHEMATICS JEE/NEET STUDY MATERIAL
     <header>
         <nav>
             <ul> 
+                <li><a href="#PASS WORD">PASS WORD</a></li>
                 <li><a href="#XI PHYSICS">XI PHYSICSK</a></li>
                 <li><a href="#XII PHYSICS">XII PHYSICS</a></li>
                 <li><a href="#XI CHEMISTRY">XI CHEMISTRY</a></li>
@@ -26,6 +27,12 @@ PHYSICS, CHEMISTRY,BIOLOGY AND MATHEMATICS JEE/NEET STUDY MATERIAL
         </nav>
     </header>
     <main>
+        <section id="PASS WORD">
+            <h2>PASS WORD</h2>
+            <ul>
+                <li><a href="">PASS WORD</a></li>
+           </ul>
+        </section>
          <section id="XI PHYSICS">
             <h2>XI PHYSICS</h2>
             <ul>
@@ -68,12 +75,20 @@ PHYSICS, CHEMISTRY,BIOLOGY AND MATHEMATICS JEE/NEET STUDY MATERIAL
         <section id="XI CHEMISTRY">
             <h2>XI CHEMISTRY</h2>
             <ul>
-                <li><a href="https://drive.google.com/file/d/13tkHH0VRxsbXg7LIXwYvlKtuEoqK9iRc/view?usp=sharing">TEST 01</a></li>
-                <li><a href="https://drive.google.com/file/d/13WHD7QoyiL4758RpNf7rZPmI5q92kPX4/view?usp=sharing">TEST 01 Solution</a></li>
-                <li><a href="https://drive.google.com/file/d/1ET682lwZ863EL6AEibueRcnWoEpYr-ex/view?usp=sharing">TEST 02</a></li>
-                <li><a href="https://drive.google.com/file/d/1924PE5GKnrCmJYBsSWLMYFKY6C9LpZkE/view?usp=sharing">SOLUTION TEST 02</a></li>
-                <li><a href="https://drive.google.com/file/d/11V8m0oZir8j2qwnjLRy35nhInx_NfmmS/view?usp=sharing">TEST 03</a></li>
-                <li><a href="https://drive.google.com/file/d/18aNSiX6tIb2TjcWgRdqOkdSO_mmwS-Br/view?usp=sharing">SOLUTION TEST 03</a></li>
+                <li><a href="">SOME BASIC CONCEPTS OF CHEMISTRY</a></li>
+                <li><a href="">STRUCTURE OF ATOMS</a></li>
+                <li><a href="">CLASSIFICATION OF ELEMENTS AND PERIODICITY IN PROPERTIES</a></li>
+                <li><a href="">CHEMICAL BONDING AND MOLECULAR STRUCTURE</a></li>
+                <li><a href="">STATES OF MATTER</a></li>
+                <li><a href="">THERMODYNAMICS</a></li>
+                <li><a href="">EQUILIBRIUM</a></li>
+                <li><a href="">REDOX REACTIONS</a></li>
+                <li><a href="">HYDROGEN</a></li>
+                <li><a href="">THE S-BLOCK ELEMENTS</a></li>
+                <li><a href="">THE P-BLOCK ELEMENTS</a></li>
+                <li><a href="">ORGANIC CHEMISTRY - SOME BASIC PRINCIPLES AND TECHNIQUES</a></li>
+                <li><a href="">HYDROCARBONS</a></li>
+                <li><a href="">ENVIRONMENTAL CHEMISTRY</a></li>
           </ul>
         </section>
         <section id="XII CHEMISTRY">
