@@ -168,18 +168,17 @@ PHYSICS, CHEMISTRY,BIOLOGY AND MATHEMATICS JEE/NEET STUDY MATERIAL
                 <li><a href="">TRIGONOMETRIC FUNCTIONS</a></li>
                 <li><a href="">PRINCIPLE OF MATHEMATICAL INDUCTION</a></li>
                 <li><a href="">COMPLEX NUMBERS AND QUADRATIC EQUATIONS</a></li>
-                <li><a href="">ELECTROMAGNETIC INDUCTION</a></li>
-                <li><a href="">ALTERNATING CURRENT</a></li>
-                <li><a href="">ELECTROMAGNETIV WAVES</a></li>
-                <li><a href="">RAY OPTICS AND OPTICAL INSTRUMENTS</a></li>
-                <li><a href="">WAVE OPTICS</a></li>
-                <li><a href="">DUAL NATURE OF RADIATION AND MATTER</a></li>
-                <li><a href="">ATOMS</a></li>
-                <li><a href="">NUCLEI</a></li>
-                <li><a href="">SEMICONDUCTOR ELECTRONIC DEVICES</a></li>
-                <li><a href="">COMMUNICATION SYSTEM</a></li>
-                <li><a href="">SEMICONDUCTOR ELECTRONIC DEVICES</a></li>
-                <li><a href="">COMMUNICATION SYSTEM</a></li>
+                <li><a href="">LINEAR INEQUALITIES</a></li>
+                <li><a href="">PERMUTATIONS AND COMBINATIONS</a></li>
+                <li><a href="">BINOMIAL  THEOREM</a></li>
+                <li><a href="">SEQUENCES AND SERIES</a></li>
+                <li><a href="">STRAIGHT LINES</a></li>
+                <li><a href="">CONIC SECTION</a></li>
+                <li><a href="">LIMITS AND DERIVATIVES</a></li>
+                <li><a href="">MATHEMATICAL REASONING</a></li>
+                <li><a href="">STATISTIES</a></li>
+                <li><a href="">.PROBABILITY</a></li>
+                <li><a href="">CO-ORDINATE GEOMETRY</a></li>
            </ul>
         </section>
         <section id="XII MATHEMATICS">
