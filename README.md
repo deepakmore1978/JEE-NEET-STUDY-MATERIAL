@@ -142,21 +142,22 @@ PHYSICS, CHEMISTRY,BIOLOGY AND MATHEMATICS JEE/NEET STUDY MATERIAL
         <section id="XII BIOLOGY">
             <h2>XII BIOLOGY</h2>
             <ul>
-                <li><a href="">ELECTRIC CHARGE AND FIELDS</a></li>
-                <li><a href="">ELECTROSTATICS POTENTIAL AND CAPACITANCE</a></li>
-                <li><a href="">CURRENT ELECTRICITY</a></li>
-                <li><a href="">MOVING CHARGES AND MAGNETISM</a></li>
-                <li><a href="">MAGNETISM AND MATTER</a></li>
-                <li><a href="">ELECTROMAGNETIC INDUCTION</a></li>
-                <li><a href="">ALTERNATING CURRENT</a></li>
-                <li><a href="">ELECTROMAGNETIV WAVES</a></li>
-                <li><a href="">RAY OPTICS AND OPTICAL INSTRUMENTS</a></li>
-                <li><a href="">WAVE OPTICS</a></li>
-                <li><a href="">DUAL NATURE OF RADIATION AND MATTER</a></li>
-                <li><a href="">ATOMS</a></li>
-                <li><a href="">NUCLEI</a></li>
-                <li><a href="">SEMICONDUCTOR ELECTRONIC DEVICES</a></li>
-                <li><a href="">COMMUNICATION SYSTEM</a></li>
+                <li><a href="">REPRODUCTION IN ORGANISMS</a></li>
+                <li><a href="">SEXUAL REPRODUCTION IN FLOWERING PLANTS</a></li>
+                <li><a href="">HUMAN REPRODUCTION</a></li>
+                <li><a href="">REPRODUCTIVE HEALTH</a></li>
+                <li><a href="">PRINCIPLES OF INHERITANCE AND VARIATION</a></li>
+                <li><a href="">MOLECULAR BASIS OF INHERITANCE</a></li>
+                <li><a href="">EVOLUTION</a></li>
+                <li><a href="">HUMAN HEALTH AND DISEASE</a></li>
+                <li><a href="">STRATEGIES FOR ENHANCEMENT IN FOOD PRODUCTION</a></li>
+                <li><a href="">MICROBES IN HUMAN WELFARE</a></li>
+                <li><a href="">BIOTECHNOLOGY.PRINCIPLES AND PROCESSES</a></li>
+                <li><a href="">BIOTECHNOLOGY AND ITS APPLICATIONS</a></li>
+                <li><a href="">ORGANISMS AND POPULATIONS</a></li>
+                <li><a href="">ECOSYSTEM</a></li>
+                <li><a href="">BIODIVERSITY AND CONSERVATION</a></li>
+                <li><a href="">ENVIRONMENTAL ISSUES</a></li>
            </ul>
         </section>
         <section id="XI MATHEMATICS">
