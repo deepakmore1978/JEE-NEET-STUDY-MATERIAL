@@ -184,22 +184,19 @@ PHYSICS, CHEMISTRY,BIOLOGY AND MATHEMATICS JEE/NEET STUDY MATERIAL
         <section id="XII MATHEMATICS">
             <h2>XII MATHEMATICS</h2>
             <ul>
-                <li><a href="">ELECTRIC CHARGE AND FIELDS</a></li>
-                <li><a href="">ELECTROSTATICS POTENTIAL AND CAPACITANCE</a></li>
-                <li><a href="">CURRENT ELECTRICITY</a></li>
-                <li><a href="">MOVING CHARGES AND MAGNETISM</a></li>
-                <li><a href="">MAGNETISM AND MATTER</a></li>
-                <li><a href="">ELECTROMAGNETIC INDUCTION</a></li>
-                <li><a href="">ALTERNATING CURRENT</a></li>
-                <li><a href="">ELECTROMAGNETIV WAVES</a></li>
-                <li><a href="">RAY OPTICS AND OPTICAL INSTRUMENTS</a></li>
-                <li><a href="">WAVE OPTICS</a></li>
-                <li><a href="">DUAL NATURE OF RADIATION AND MATTER</a></li>
-                <li><a href="">ATOMS</a></li>
-                <li><a href="">NUCLEI</a></li>
-                <li><a href="">SEMICONDUCTOR ELECTRONIC DEVICES</a></li>
-                <li><a href="">COMMUNICATION SYSTEM</a></li>
-           </ul>
+                <li><a href="">DIFFERENTITATION</a></li>
+                <li><a href="">INVERSE TRIGONOMETRICE FUNCTIONS</a></li>
+                <li><a href="">MATRICES</a></li>
+                <li><a href="">DETERMINANTS</a></li>
+                <li><a href="">CONTINUITY AND DIFFERENTIABILITY</a></li>
+                <li><a href="">APPLICATION OF DERIVATIVES</a></li>
+                <li><a href="">INTEGRALS</a></li>
+                <li><a href="">APPLICATION OF INTEGRALS</a></li>
+                <li><a href="">DIFFERENTIAL EQUATIONS</a></li>
+                <li><a href="">VECTOR ALGEBRA</a></li>
+                <li><a href="">THREE DIMENSIONAL GEOMETRY</a></li>
+                <li><a href="">LINEAR PROGRAMMINGS</a></li>
+            </ul>
         </section>
         </main>
     </body>
