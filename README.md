@@ -115,21 +115,28 @@ PHYSICS, CHEMISTRY,BIOLOGY AND MATHEMATICS JEE/NEET STUDY MATERIAL
         <section id="XI BIOLOGY">
             <h2>XI BIOLOGY</h2>
             <ul>
-                <li><a href="">ELECTRIC CHARGE AND FIELDS</a></li>
-                <li><a href="">ELECTROSTATICS POTENTIAL AND CAPACITANCE</a></li>
-                <li><a href="">CURRENT ELECTRICITY</a></li>
-                <li><a href="">MOVING CHARGES AND MAGNETISM</a></li>
-                <li><a href="">MAGNETISM AND MATTER</a></li>
-                <li><a href="">ELECTROMAGNETIC INDUCTION</a></li>
-                <li><a href="">ALTERNATING CURRENT</a></li>
-                <li><a href="">ELECTROMAGNETIV WAVES</a></li>
-                <li><a href="">RAY OPTICS AND OPTICAL INSTRUMENTS</a></li>
-                <li><a href="">WAVE OPTICS</a></li>
-                <li><a href="">DUAL NATURE OF RADIATION AND MATTER</a></li>
-                <li><a href="">ATOMS</a></li>
-                <li><a href="">NUCLEI</a></li>
-                <li><a href="">SEMICONDUCTOR ELECTRONIC DEVICES</a></li>
-                <li><a href="">COMMUNICATION SYSTEM</a></li>
+                <li><a href="">THE LIVING WORLD</a></li>
+                <li><a href="">BIOLOGICAL CLASSIFICATION</a></li>
+                <li><a href="">PLANT KINGDOM</a></li>
+                <li><a href="">ANIMAL KINGDOM</a></li>
+                <li><a href="">MORPHOLOGY OF FLOWERING PLANTS</a></li>
+                <li><a href="">ANATOMY OF FLOWERING PLANTS</a></li>
+                <li><a href="">STRUCTURAL ORGANISATION IN ANIMALS</a></li>
+                <li><a href="">CELL.THE UNIT OF LIFE</a></li>
+                <li><a href="">BIOMOLECULES</a></li>
+                <li><a href="">CELL CYCLE AND CELL DIVISION</a></li>
+                <li><a href="">TRANSPORT IN PLANTS</a></li>
+                <li><a href="">MINERAL NUTRITION</a></li>
+                <li><a href="">PHOTOSYNTHESIS IN HIGHER PLANTS</a></li>
+                <li><a href="">RESPIRATION IN PLANTS</a></li>
+                <li><a href="">PLANT GROWTH AND DEVELOPMENT</a></li>
+                <li><a href="">DIGESTION AND ABSORPTION</a></li>
+                <li><a href="">BREATHING AND EXCHANGE OF GASES</a></li>
+                <li><a href="">BODY FLUIDS AND CIRCULATION</a></li>
+                <li><a href="">EXCRETORY PRODUCTS AND THEIR ELIMINATION</a></li>
+                <li><a href="">LOCOMOTION AND MOVEMENT</a></li>
+                <li><a href="">NEURAL CONTROL AND COORDINATION</a></li>
+                <li><a href="">CHEMICAL COORDINATION AND INTEGRATION</a></li>
            </ul>
         </section>
         <section id="XII BIOLOGY">
