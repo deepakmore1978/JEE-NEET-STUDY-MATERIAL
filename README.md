@@ -75,20 +75,20 @@ PHYSICS, CHEMISTRY,BIOLOGY AND MATHEMATICS JEE/NEET STUDY MATERIAL
         <section id="XI CHEMISTRY">
             <h2>XI CHEMISTRY</h2>
             <ul>
-                <li><a href="">SOME BASIC CONCEPTS OF CHEMISTRY</a></li>
-                <li><a href="">STRUCTURE OF ATOMS</a></li>
-                <li><a href="">CLASSIFICATION OF ELEMENTS AND PERIODICITY IN PROPERTIES</a></li>
-                <li><a href="">CHEMICAL BONDING AND MOLECULAR STRUCTURE</a></li>
-                <li><a href="">STATES OF MATTER</a></li>
-                <li><a href="">THERMODYNAMICS</a></li>
-                <li><a href="">EQUILIBRIUM</a></li>
-                <li><a href="">REDOX REACTIONS</a></li>
-                <li><a href="">HYDROGEN</a></li>
-                <li><a href="">THE S-BLOCK ELEMENTS</a></li>
-                <li><a href="">THE P-BLOCK ELEMENTS</a></li>
-                <li><a href="">ORGANIC CHEMISTRY - SOME BASIC PRINCIPLES AND TECHNIQUES</a></li>
-                <li><a href="">HYDROCARBONS</a></li>
-                <li><a href="">ENVIRONMENTAL CHEMISTRY</a></li>
+                <li><a href="https://drive.google.com/file/d/1yk9mP9-YgUo-YD9kkgbrIq92bYIoGuML/view?usp=sharing">SOME BASIC CONCEPTS OF CHEMISTRY</a></li>
+                <li><a href="https://drive.google.com/file/d/1_bNHyx0xh8s_qru6-z1ukyUHbru0_9KL/view?usp=sharing">STRUCTURE OF ATOMS</a></li>
+                <li><a href="https://drive.google.com/file/d/1cXLa7CzHvsOVJK7PTE5UYTeX-gX9acz5/view?usp=sharing">CLASSIFICATION OF ELEMENTS AND PERIODICITY IN PROPERTIES</a></li>
+                <li><a href="https://drive.google.com/file/d/1R6tg3n-Q9Xxg0-jYMuGGo1xFjkQ6BUew/view?usp=sharing">CHEMICAL BONDING AND MOLECULAR STRUCTURE</a></li>
+                <li><a href="https://drive.google.com/file/d/1wgjeO1HcE4LjkWBhNqn3I_hDvQrsisUB/view?usp=sharing">STATES OF MATTER</a></li>
+                <li><a href="https://drive.google.com/file/d/16OwfA7FgOtzyOdmQCqiqmV6nFcc4VaYA/view?usp=sharing">THERMODYNAMICS</a></li>
+                <li><a href="https://drive.google.com/file/d/1XPzl9bRhvX6vVE5-N3oerTjtNQBG89qR/view?usp=sharing">EQUILIBRIUM</a></li>
+                <li><a href="https://drive.google.com/file/d/1MJ_MCLe5q-hmfHw1mhAAGdP7SrFjMWKN/view?usp=sharing">REDOX REACTIONS</a></li>
+                <li><a href="https://drive.google.com/file/d/1SHNJmuSUx0MqRM6lhuAySlWgUfEoLTpG/view?usp=sharing">HYDROGEN</a></li>
+                <li><a href="https://drive.google.com/file/d/1vOEWB5D3VP5WT3NUfOMTueHpyIncuxHw/view?usp=sharing">THE S-BLOCK ELEMENTS</a></li>
+                <li><a href="https://drive.google.com/file/d/18t42jlD9iF1zkl18I6rVDb8USz0sAdeJ/view?usp=sharing">THE P-BLOCK ELEMENTS</a></li>
+                <li><a href="https://drive.google.com/file/d/1GmXi9FOlMq1h2R81jslxqPDdRYB5o6mK/view?usp=sharing">ORGANIC CHEMISTRY - SOME BASIC PRINCIPLES AND TECHNIQUES</a></li>
+                <li><a href="https://drive.google.com/file/d/1QOa3IwLjnvmi58XlhuyoAm3cKGbpr4qV/view?usp=sharing">HYDROCARBONS</a></li>
+                <li><a href="https://drive.google.com/file/d/1TB9GMULTsSbsF0RH1psKfiaHyUzialdT/view?usp=sharing">ENVIRONMENTAL CHEMISTRY</a></li>
           </ul>
         </section>
         <section id="XII CHEMISTRY">
