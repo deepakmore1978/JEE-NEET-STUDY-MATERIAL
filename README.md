@@ -36,20 +36,20 @@ PHYSICS, CHEMISTRY,BIOLOGY AND MATHEMATICS JEE/NEET STUDY MATERIAL
          <section id="XI PHYSICS">
             <h2>XI PHYSICS</h2>
             <ul>
-                <li><a href="">UNITS AND MEASUREMENTS</a></li>
-                <li><a href="">MOTION IN A STRAIGHT LINE</a></li>
-                <li><a href="">MOTION IN A PLANE</a></li>
-                <li><a href="">LAWS OF MOTION</a></li>
-                <li><a href="">WORK ENERGY AND POWER</a></li>
-                <li><a href="">SYSTEM OF PARTICLE AND ROTATIONAL MOTION</a></li>
-                <li><a href="">GRAVITATION</a></li>
-                <li><a href="">MECHANICAL PROPERTIES OF SOLIDS</a></li>
-                <li><a href="">MECHANICAL PROPERTIES OF FLUIDS</a></li>
-                <li><a href="">THERMAL PROPERTIES OF MATTER</a></li>
-                <li><a href="">THERMODYNAMICS</a></li>
-                <li><a href="">KINETIC THEORY</a></li>
-                <li><a href="">OSCILLATIONS</a></li>
-                <li><a href="">WAVES</a></li>
+                <li><a href="https://drive.google.com/file/d/1FMm-IkuK_o3u13ID_5NTfmvRSwi69FSj/view?usp=sharing">UNITS AND MEASUREMENTS</a></li>
+                <li><a href="https://drive.google.com/file/d/1jo9GeyU18-S2X4xFh34UpK67QrQPo4-8/view?usp=sharing">MOTION IN A STRAIGHT LINE</a></li>
+                <li><a href="https://drive.google.com/file/d/14sUWv_BmVK_0SoDDWNPaIZWnEVZczkX6/view?usp=sharing">MOTION IN A PLANE</a></li>
+                <li><a href="https://drive.google.com/file/d/1jdyLOUlMQoJCVEvlKEDxXQ5Ihu90fSPT/view?usp=sharing">LAWS OF MOTION</a></li>
+                <li><a href="https://drive.google.com/file/d/1oXO4VxYUXRmHnvsaWR3QyfwocgMvix6j/view?usp=sharing">WORK ENERGY AND POWER</a></li>
+                <li><a href="https://drive.google.com/file/d/1kWPBUSxN_hVmYya0HphsL14G64YgWeSk/view?usp=sharing">SYSTEM OF PARTICLE AND ROTATIONAL MOTION</a></li>
+                <li><a href="https://drive.google.com/file/d/14NbBfHk9uyZnrR_wdIsxQ2z9acBRerGW/view?usp=sharing">GRAVITATION</a></li>
+                <li><a href="https://drive.google.com/file/d/1ljXmPQCTk0p1-BmLawO3fxF-oQAmaCWf/view?usp=sharing">MECHANICAL PROPERTIES OF SOLIDS</a></li>
+                <li><a href="https://drive.google.com/file/d/1rT9u0UubmIcuG9Wc96nZSTz7AHLKgyn2/view?usp=sharing">MECHANICAL PROPERTIES OF FLUIDS</a></li>
+                <li><a href="https://drive.google.com/file/d/1gNHaQZ6Mvr_HNmPNl4vsTahphbXnSsJr/view?usp=sharing">THERMAL PROPERTIES OF MATTER</a></li>
+                <li><a href="https://drive.google.com/file/d/1GGuvbqNu8owZxQVW9zKitSFR9fUTtGaU/view?usp=sharing">THERMODYNAMICS</a></li>
+                <li><a href="https://drive.google.com/file/d/1lDl-BxjLuuOrdivE0MmSwJx7QJ3QCdWY/view?usp=sharing">KINETIC THEORY</a></li>
+                <li><a href="https://drive.google.com/file/d/17HJ4X0wLzMkTgjb6x9xUOBlSnsEDlUSW/view?usp=sharing">OSCILLATIONS</a></li>
+                <li><a href="https://drive.google.com/file/d/1RUBsa7gua2c1JVeaPVtnVK4Eo83klTcZ/view?usp=sharing">WAVES</a></li>
            </ul>
         </section>
         <section id="XII PHYSICS">
