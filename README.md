@@ -55,21 +55,21 @@ PHYSICS, CHEMISTRY,BIOLOGY AND MATHEMATICS JEE/NEET STUDY MATERIAL
         <section id="XII PHYSICS">
             <h2>XII PHYSICS</h2>
             <ul>
-                <li><a href="">ELECTRIC CHARGE AND FIELDS</a></li>
-                <li><a href="">ELECTROSTATICS POTENTIAL AND CAPACITANCE</a></li>
-                <li><a href="">CURRENT ELECTRICITY</a></li>
-                <li><a href="">MOVING CHARGES AND MAGNETISM</a></li>
-                <li><a href="">MAGNETISM AND MATTER</a></li>
-                <li><a href="">ELECTROMAGNETIC INDUCTION</a></li>
-                <li><a href="">ALTERNATING CURRENT</a></li>
-                <li><a href="">ELECTROMAGNETIV WAVES</a></li>
-                <li><a href="">RAY OPTICS AND OPTICAL INSTRUMENTS</a></li>
-                <li><a href="">WAVE OPTICS</a></li>
-                <li><a href="">DUAL NATURE OF RADIATION AND MATTER</a></li>
-                <li><a href="">ATOMS</a></li>
-                <li><a href="">NUCLEI</a></li>
-                <li><a href="">SEMICONDUCTOR ELECTRONIC DEVICES</a></li>
-                <li><a href="">COMMUNICATION SYSTEM</a></li>
+                <li><a href="https://drive.google.com/file/d/1NL4M6QBlYFdWgSMmtzzukluAIwchjk9q/view?usp=sharing">ELECTRIC CHARGE AND FIELDS</a></li>
+                <li><a href="https://drive.google.com/file/d/1XXr_E8UyIBYpf3ukiJdR8sFr4XSSkKle/view?usp=sharing">ELECTROSTATICS POTENTIAL AND CAPACITANCE</a></li>
+                <li><a href="https://drive.google.com/file/d/1btRXnztmcXE7f58KrocRZ6bSrCJORvaT/view?usp=sharing">CURRENT ELECTRICITY</a></li>
+                <li><a href="https://drive.google.com/file/d/187kTHe5VSd7zeAAYerfXszJobYp1QZxo/view?usp=sharing">MOVING CHARGES AND MAGNETISM</a></li>
+                <li><a href="https://drive.google.com/file/d/1TrSBq__jpHa4aUO0Xw1PPcIz8WPjmKcd/view?usp=sharing">MAGNETISM AND MATTER</a></li>
+                <li><a href="https://drive.google.com/file/d/1ECG_cl6us2X0z7VFENIInxNy_xwn6wTF/view?usp=sharing">ELECTROMAGNETIC INDUCTION</a></li>
+                <li><a href="https://drive.google.com/file/d/162K37kZZIMdXlEpvsyKCu0GeMvUZbkjo/view?usp=sharing">ALTERNATING CURRENT</a></li>
+                <li><a href="https://drive.google.com/file/d/1Xig8i4f9oFGyhPb0V9Crt33wwNwKLEo_/view?usp=sharing">ELECTROMAGNETIV WAVES</a></li>
+                <li><a href="https://drive.google.com/file/d/1j1B1uJxJkKo6qqq0bdw_7uYV8UhKPtHr/view?usp=sharing">RAY OPTICS AND OPTICAL INSTRUMENTS</a></li>
+                <li><a href="https://drive.google.com/file/d/1xKUg_4FVIvSm516IMgXF-U5OZHmkZAEc/view?usp=sharing">WAVE OPTICS</a></li>
+                <li><a href="https://drive.google.com/file/d/1CgSwneD68-wKhHh6dLjKXHytq84vbSZo/view?usp=sharing">DUAL NATURE OF RADIATION AND MATTER</a></li>
+                <li><a href="https://drive.google.com/file/d/1EtT3MQFwltOaAGjMpV1JI9xEq-upFAle/view?usp=sharing">ATOMS</a></li>
+                <li><a href="https://drive.google.com/file/d/1pIG_tlX8xay82PmcTnAcRMQNoXM5sQdz/view?usp=sharing">NUCLEI</a></li>
+                <li><a href="https://drive.google.com/file/d/171V69UbztoGLbGTGH4gjb8o_RxAh3yXT/view?usp=sharing">SEMICONDUCTOR ELECTRONIC DEVICES</a></li>
+                <li><a href="https://drive.google.com/file/d/1HO71er4VJ2aj03YZDE08_X_C8oWXmw2B/view?usp=sharing">COMMUNICATION SYSTEM</a></li>
             </ul>
         </section>
         <section id="XI CHEMISTRY">
