@@ -30,7 +30,7 @@ PHYSICS, CHEMISTRY,BIOLOGY AND MATHEMATICS JEE/NEET STUDY MATERIAL
         <section id="PASS WORD">
             <h2>PASS WORD</h2>
             <ul>
-                <li><a href="">PASS WORD</a></li>
+                <li><a href="https://drive.google.com/file/d/1OYixGeaMoW_QSJR1sfKIPjztM6_Pjgoz/view?usp=sharing">PASS WORD</a></li>
            </ul>
         </section>
          <section id="XI PHYSICS">
