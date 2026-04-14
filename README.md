@@ -142,22 +142,22 @@ PHYSICS, CHEMISTRY,BIOLOGY AND MATHEMATICS JEE/NEET STUDY MATERIAL
         <section id="XII BIOLOGY">
             <h2>XII BIOLOGY</h2>
             <ul>
-                <li><a href="">REPRODUCTION IN ORGANISMS</a></li>
-                <li><a href="">SEXUAL REPRODUCTION IN FLOWERING PLANTS</a></li>
-                <li><a href="">HUMAN REPRODUCTION</a></li>
-                <li><a href="">REPRODUCTIVE HEALTH</a></li>
-                <li><a href="">PRINCIPLES OF INHERITANCE AND VARIATION</a></li>
-                <li><a href="">MOLECULAR BASIS OF INHERITANCE</a></li>
-                <li><a href="">EVOLUTION</a></li>
-                <li><a href="">HUMAN HEALTH AND DISEASE</a></li>
-                <li><a href="">STRATEGIES FOR ENHANCEMENT IN FOOD PRODUCTION</a></li>
-                <li><a href="">MICROBES IN HUMAN WELFARE</a></li>
-                <li><a href="">BIOTECHNOLOGY.PRINCIPLES AND PROCESSES</a></li>
-                <li><a href="">BIOTECHNOLOGY AND ITS APPLICATIONS</a></li>
-                <li><a href="">ORGANISMS AND POPULATIONS</a></li>
-                <li><a href="">ECOSYSTEM</a></li>
-                <li><a href="">BIODIVERSITY AND CONSERVATION</a></li>
-                <li><a href="">ENVIRONMENTAL ISSUES</a></li>
+                <li><a href="https://drive.google.com/file/d/1AhsyqOm8D1VWZElJTVQtKOj-qWXLQTCm/view?usp=sharing">REPRODUCTION IN ORGANISMS</a></li>
+                <li><a href="https://drive.google.com/file/d/1N2jlL24hDZY_InPdY9QhYDET4QdQglni/view?usp=sharing">SEXUAL REPRODUCTION IN FLOWERING PLANTS</a></li>
+                <li><a href="https://drive.google.com/file/d/1ME_oVTPyr3tS6vp57FwbaDzjpbIf6v3X/view?usp=sharing">HUMAN REPRODUCTION</a></li>
+                <li><a href="https://drive.google.com/file/d/1ISTJqkKkJLGSNHx6HEw1WoNN3uzwtrtz/view?usp=sharing">REPRODUCTIVE HEALTH</a></li>
+                <li><a href="https://drive.google.com/file/d/1RRyRX9Nh7YsrYPupgsIH2NFtmW-jJbHC/view?usp=sharing">PRINCIPLES OF INHERITANCE AND VARIATION</a></li>
+                <li><a href="https://drive.google.com/file/d/1K3Q1qDdEvLU7fkW16yAdUWN5rQQk9Osm/view?usp=sharing">MOLECULAR BASIS OF INHERITANCE</a></li>
+                <li><a href="https://drive.google.com/file/d/1bzrVYNtTFAOpcAE3uR2LZgy7bKw8FXlL/view?usp=sharing">EVOLUTION</a></li>
+                <li><a href="https://drive.google.com/file/d/11BB1OKAAtbAsicJoRBxgM_aXIHxWBFrN/view?usp=sharing">HUMAN HEALTH AND DISEASE</a></li>
+                <li><a href="https://drive.google.com/file/d/1Bvdg4iCvJyZXT5tcSmnWu-Ls8R6c1yxm/view?usp=sharing">STRATEGIES FOR ENHANCEMENT IN FOOD PRODUCTION</a></li>
+                <li><a href="https://drive.google.com/file/d/1f3qcosEFnT5LtCITJ5nLh7OSU48xKoTz/view?usp=sharing">MICROBES IN HUMAN WELFARE</a></li>
+                <li><a href="https://drive.google.com/file/d/1Rygd3_SG5Z5mmkRFMP6glU1Jt2wEhaVI/view?usp=sharing">BIOTECHNOLOGY.PRINCIPLES AND PROCESSES</a></li>
+                <li><a href="https://drive.google.com/file/d/1-OHt6tvT5jQb9UOVlxi7B4nksPwRRZQN/view?usp=sharing">BIOTECHNOLOGY AND ITS APPLICATIONS</a></li>
+                <li><a href="https://drive.google.com/file/d/1jBbKLRXeJxWxMEoxddUqPLJF0tDOW4dO/view?usp=sharing">ORGANISMS AND POPULATIONS</a></li>
+                <li><a href="https://drive.google.com/file/d/1Od4dxlm_9iQf1ItHtxWs-WPdtCZTdFdS/view?usp=sharing">ECOSYSTEM</a></li>
+                <li><a href="https://drive.google.com/file/d/1ahAnWHXipFhEp2orRdbEOBowK7L77qcd/view?usp=sharing">BIODIVERSITY AND CONSERVATION</a></li>
+                <li><a href="https://drive.google.com/file/d/1oD-jZUR3m8D3sQwthLQ4LeJC9T9063Eb/view?usp=sharing">ENVIRONMENTAL ISSUES</a></li>
            </ul>
         </section>
         <section id="XI MATHEMATICS">
