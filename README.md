@@ -163,22 +163,22 @@ PHYSICS, CHEMISTRY,BIOLOGY AND MATHEMATICS JEE/NEET STUDY MATERIAL
         <section id="XI MATHEMATICS">
             <h2>XI MATHEMATICS</h2>
             <ul>
-                <li><a href="">SETS</a></li>
-                <li><a href="">RELATIONS AND FUNCTION S</a></li>
-                <li><a href="">TRIGONOMETRIC FUNCTIONS</a></li>
-                <li><a href="">PRINCIPLE OF MATHEMATICAL INDUCTION</a></li>
-                <li><a href="">COMPLEX NUMBERS AND QUADRATIC EQUATIONS</a></li>
-                <li><a href="">LINEAR INEQUALITIES</a></li>
-                <li><a href="">PERMUTATIONS AND COMBINATIONS</a></li>
-                <li><a href="">BINOMIAL  THEOREM</a></li>
-                <li><a href="">SEQUENCES AND SERIES</a></li>
-                <li><a href="">STRAIGHT LINES</a></li>
-                <li><a href="">CONIC SECTION</a></li>
-                <li><a href="">LIMITS AND DERIVATIVES</a></li>
-                <li><a href="">MATHEMATICAL REASONING</a></li>
-                <li><a href="">STATISTIES</a></li>
-                <li><a href="">.PROBABILITY</a></li>
-                <li><a href="">CO-ORDINATE GEOMETRY</a></li>
+                <li><a href="https://drive.google.com/file/d/1CQUQBPIeX-0YqMcRk1ffqD7Z_BCtACtU/view?usp=sharing">SETS</a></li>
+                <li><a href="https://drive.google.com/file/d/1yiMtHEBLcBYMeTvwFQoKZycU0PFnt6w3/view?usp=sharing">RELATIONS AND FUNCTION S</a></li>
+                <li><a href="https://drive.google.com/file/d/1htXtjfED7NZyIwzUgz4S8o46j1uRLkOb/view?usp=sharing">TRIGONOMETRIC FUNCTIONS</a></li>
+                <li><a href="https://drive.google.com/file/d/1_K7DwcMFMtGwbfieYObyPcQKbcZp2uVW/view?usp=sharing">PRINCIPLE OF MATHEMATICAL INDUCTION</a></li>
+                <li><a href="https://drive.google.com/file/d/1gPPkEbBdfvI5S_aN2I2nh3NXPGX9Wl0d/view?usp=sharing">COMPLEX NUMBERS AND QUADRATIC EQUATIONS</a></li>
+                <li><a href="https://drive.google.com/file/d/1a5YRlbAWgkWDADxkynaDuP2TGwfwqVC6/view?usp=sharing">LINEAR INEQUALITIES</a></li>
+                <li><a href="https://drive.google.com/file/d/1zAL7XsLVDrQTGPBLcwovqjpdUVuLrX92/view?usp=sharing">PERMUTATIONS AND COMBINATIONS</a></li>
+                <li><a href="https://drive.google.com/file/d/1O5lVbU8-wq6WxTZsLlMNfgYxBdH8BBbW/view?usp=sharing">BINOMIAL  THEOREM</a></li>
+                <li><a href="https://drive.google.com/file/d/1QbU12NL41SOSBLfgGoGveJYJlDiPM_Hj/view?usp=sharing">SEQUENCES AND SERIES</a></li>
+                <li><a href="https://drive.google.com/file/d/1OJR7e7MKRl7Mj8MuQrt2wJQ3SrJhC2PK/view?usp=sharing">STRAIGHT LINES</a></li>
+                <li><a href="https://drive.google.com/file/d/1U8pQQikwzQcoe629SpU7Q5gBl_cQ0L8f/view?usp=sharing">CONIC SECTION</a></li>
+                <li><a href="https://drive.google.com/file/d/1hcF5ILzCGmi8kGPu7vg5-7-tVxeq7aI-/view?usp=sharing">LIMITS AND DERIVATIVES</a></li>
+                <li><a href="https://drive.google.com/file/d/1cgjbHXY7He0xBIxOW2tjws7wtd7pyyyW/view?usp=sharing">MATHEMATICAL REASONING</a></li>
+                <li><a href="https://drive.google.com/file/d/1l9NDnpSxK9ieS2_w1CYgnmg0LB7gytpU/view?usp=sharing">STATISTIES</a></li>
+                <li><a href="https://drive.google.com/file/d/1XDlrae5flwbPXSXYFbVwmvPIg3zt9Qs_/view?usp=sharing">.PROBABILITY</a></li>
+                <li><a href="https://drive.google.com/file/d/14Fqs_ggLA8i2PeMvhnREybAvZXoh2osL/view?usp=sharing">CO-ORDINATE GEOMETRY</a></li>
            </ul>
         </section>
         <section id="XII MATHEMATICS">
