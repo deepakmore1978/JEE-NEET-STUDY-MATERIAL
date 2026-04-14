@@ -184,18 +184,18 @@ PHYSICS, CHEMISTRY,BIOLOGY AND MATHEMATICS JEE/NEET STUDY MATERIAL
         <section id="XII MATHEMATICS">
             <h2>XII MATHEMATICS</h2>
             <ul>
-                <li><a href="">DIFFERENTITATION</a></li>
-                <li><a href="">INVERSE TRIGONOMETRICE FUNCTIONS</a></li>
-                <li><a href="">MATRICES</a></li>
-                <li><a href="">DETERMINANTS</a></li>
-                <li><a href="">CONTINUITY AND DIFFERENTIABILITY</a></li>
-                <li><a href="">APPLICATION OF DERIVATIVES</a></li>
-                <li><a href="">INTEGRALS</a></li>
-                <li><a href="">APPLICATION OF INTEGRALS</a></li>
-                <li><a href="">DIFFERENTIAL EQUATIONS</a></li>
-                <li><a href="">VECTOR ALGEBRA</a></li>
-                <li><a href="">THREE DIMENSIONAL GEOMETRY</a></li>
-                <li><a href="">LINEAR PROGRAMMINGS</a></li>
+                <li><a href="https://drive.google.com/file/d/1XyM5hEz1X53rTf6d19-E5dnBvJ4C3pTh/view?usp=sharing">DIFFERENTITATION</a></li>
+                <li><a href="https://drive.google.com/file/d/1MKjs8QN79lwFwQRtZ9motEqYr7JQQ2Cu/view?usp=sharing">INVERSE TRIGONOMETRICE FUNCTIONS</a></li>
+                <li><a href="https://drive.google.com/file/d/1Wyo7mhWLE6X_cE_h1CTtudKrbIBxZ5rF/view?usp=sharing">MATRICES</a></li>
+                <li><a href="https://drive.google.com/file/d/15WYcpKJJeQtwejk0XITW3_VK4gxpic9g/view?usp=sharing">DETERMINANTS</a></li>
+                <li><a href="https://drive.google.com/file/d/1KqC48CMlFQUcSHir4-_-gWQO08BAHsXW/view?usp=sharing">CONTINUITY AND DIFFERENTIABILITY</a></li>
+                <li><a href="https://drive.google.com/file/d/17LBy65JS0JptetzMyGOBfD8ZhY00Ezqs/view?usp=sharing">APPLICATION OF DERIVATIVES</a></li>
+                <li><a href="https://drive.google.com/file/d/1jB5mdNcrzcSO8HARlqs5KAHPrW7AOhqO/view?usp=sharing">INTEGRALS</a></li>
+                <li><a href="https://drive.google.com/file/d/1kJssO1LEuUh7YIn80dGYb61MXO7f6Bhx/view?usp=sharing">APPLICATION OF INTEGRALS</a></li>
+                <li><a href="https://drive.google.com/file/d/14B1U9qcK9AnzgujItrLp1QAT-NKouLSO/view?usp=sharing">DIFFERENTIAL EQUATIONS</a></li>
+                <li><a href="https://drive.google.com/file/d/17Zw2CJLBuUnmLePPXmWNraw-DhQuMHja/view?usp=sharing">VECTOR ALGEBRA</a></li>
+                <li><a href="https://drive.google.com/file/d/1NokF7W4lip431fV5QnnCKW158deI01hu/view?usp=sharing">THREE DIMENSIONAL GEOMETRY</a></li>
+                <li><a href="https://drive.google.com/file/d/1PRm-3Lc6y0ivbfh1EIybp6Wwxri9dK-i/view?usp=sharing">LINEAR PROGRAMMINGS</a></li>
             </ul>
         </section>
         </main>
