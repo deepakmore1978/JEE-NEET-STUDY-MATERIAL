@@ -94,22 +94,22 @@ PHYSICS, CHEMISTRY,BIOLOGY AND MATHEMATICS JEE/NEET STUDY MATERIAL
         <section id="XII CHEMISTRY">
             <h2>XII CHEMISTRY</h2>
             <ul>
-                <li><a href="">THE SOLID STATE</a></li>
-                <li><a href="">SOLUTIONS</a></li>
-                <li><a href="">ELECTROCHEMISTRY</a></li>
-                <li><a href="">CHEMICAL KINETICS</a></li>
-                <li><a href="">SURFACE CHEMISTRY</a></li>
-                <li><a href="">GENERAL PRINCIPLES AND PROCESSES OF ISOLATION OF ELEMENTS</a></li>
-                <li><a href="">THE P-BLOCK ELEMENTS</a></li>
-                <li><a href="">THE D-AND F-BLOCK ELEMENTS</a></li>
-                <li><a href="">COORDINATION COMPOUNDS</a></li>
-                <li><a href="">HALOALKANES AND HALOARENES</a></li>
-                <li><a href="">ALCOHOLS, PHENOLS AND ETHERS</a></li>
-                <li><a href="">ALDEHYDES, KETONES AND CARBOXYLIC ACIDS</a></li>
-                <li><a href="">AMINES</a></li>
-                <li><a href="">BIOMOLECULES</a></li>
-                <li><a href="">POLYMERS</a></li>
-                <li><a href="">CHEMISTRY IN EVERYDAY LIFE</a></li>
+                <li><a href="https://drive.google.com/file/d/1D3jMgNKJNMyxuyY3ZxIlb8pIJczBB-zo/view?usp=sharing">THE SOLID STATE</a></li>
+                <li><a href="https://drive.google.com/file/d/1A2ssgqA159Rm4v0TL5Q3p-Xhc_XUUFSv/view?usp=sharing">SOLUTIONS</a></li>
+                <li><a href="https://drive.google.com/file/d/1UZpJsU-x9W342zhbzvl-9EHNeQf7g3bO/view?usp=sharing">ELECTROCHEMISTRY</a></li>
+                <li><a href="https://drive.google.com/file/d/1RI_sjpHrYHwfMYrWqpny1w12eZwTZXxQ/view?usp=sharing">CHEMICAL KINETICS</a></li>
+                <li><a href="https://drive.google.com/file/d/17I2X3ckAwQgTm8Mjbbc2NecxNchumzuN/view?usp=sharing">SURFACE CHEMISTRY</a></li>
+                <li><a href="https://drive.google.com/file/d/1k61YrOt_9kuGoFhRGZUM0jT7kmUCqwUT/view?usp=sharing">GENERAL PRINCIPLES AND PROCESSES OF ISOLATION OF ELEMENTS</a></li>
+                <li><a href="https://drive.google.com/file/d/1zKbhnWNsIPFau4EiXPymyJ0f031yQ_zC/view?usp=sharing">THE P-BLOCK ELEMENTS</a></li>
+                <li><a href="https://drive.google.com/file/d/1p4NqpueLRggrbeMEabzyeIlWJaOPkQPf/view?usp=sharing">THE D-AND F-BLOCK ELEMENTS</a></li>
+                <li><a href="https://drive.google.com/file/d/1sEs4x3VLZRF7KpckPvJrmVhQrBcvydwu/view?usp=sharing">COORDINATION COMPOUNDS</a></li>
+                <li><a href="https://drive.google.com/file/d/1xtZ0Il6iMydmRKOhgtV7N-3USrv5th7D/view?usp=sharing">HALOALKANES AND HALOARENES</a></li>
+                <li><a href="https://drive.google.com/file/d/1AqZuC0UQQFzpU2c84iAwu34khrvfVHqU/view?usp=sharing">ALCOHOLS, PHENOLS AND ETHERS</a></li>
+                <li><a href="https://drive.google.com/file/d/12Vg0IE2Dw55yiVEhM514O1g7M8KnHIb1/view?usp=sharing">ALDEHYDES, KETONES AND CARBOXYLIC ACIDS</a></li>
+                <li><a href="https://drive.google.com/file/d/1YBfBw2X8uPTQfEE-byW0-AH87p4k-ex7/view?usp=sharing">AMINES</a></li>
+                <li><a href="https://drive.google.com/file/d/1FD_Ydt3qF5yOOkWN431AoIqp6ehDDJXc/view?usp=sharing">BIOMOLECULES</a></li>
+                <li><a href="https://drive.google.com/file/d/156qByBSHKJ_5iuJ0x_L_LrkAF00NvNxg/view?usp=sharing">POLYMERS</a></li>
+                <li><a href="https://drive.google.com/file/d/19Rd06FdqYhv0tE_Y4LAPrpq4yo_aKbIC/view?usp=sharing">CHEMISTRY IN EVERYDAY LIFE</a></li>
             </ul>
         </section>
         <section id="XI BIOLOGY">
