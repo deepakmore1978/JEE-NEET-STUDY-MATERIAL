@@ -115,28 +115,28 @@ PHYSICS, CHEMISTRY,BIOLOGY AND MATHEMATICS JEE/NEET STUDY MATERIAL
         <section id="XI BIOLOGY">
             <h2>XI BIOLOGY</h2>
             <ul>
-                <li><a href="">THE LIVING WORLD</a></li>
-                <li><a href="">BIOLOGICAL CLASSIFICATION</a></li>
-                <li><a href="">PLANT KINGDOM</a></li>
-                <li><a href="">ANIMAL KINGDOM</a></li>
-                <li><a href="">MORPHOLOGY OF FLOWERING PLANTS</a></li>
-                <li><a href="">ANATOMY OF FLOWERING PLANTS</a></li>
-                <li><a href="">STRUCTURAL ORGANISATION IN ANIMALS</a></li>
-                <li><a href="">CELL.THE UNIT OF LIFE</a></li>
-                <li><a href="">BIOMOLECULES</a></li>
-                <li><a href="">CELL CYCLE AND CELL DIVISION</a></li>
-                <li><a href="">TRANSPORT IN PLANTS</a></li>
-                <li><a href="">MINERAL NUTRITION</a></li>
-                <li><a href="">PHOTOSYNTHESIS IN HIGHER PLANTS</a></li>
-                <li><a href="">RESPIRATION IN PLANTS</a></li>
-                <li><a href="">PLANT GROWTH AND DEVELOPMENT</a></li>
-                <li><a href="">DIGESTION AND ABSORPTION</a></li>
-                <li><a href="">BREATHING AND EXCHANGE OF GASES</a></li>
-                <li><a href="">BODY FLUIDS AND CIRCULATION</a></li>
-                <li><a href="">EXCRETORY PRODUCTS AND THEIR ELIMINATION</a></li>
-                <li><a href="">LOCOMOTION AND MOVEMENT</a></li>
-                <li><a href="">NEURAL CONTROL AND COORDINATION</a></li>
-                <li><a href="">CHEMICAL COORDINATION AND INTEGRATION</a></li>
+                <li><a href="https://drive.google.com/file/d/1FPFPOfjBits1WUZJ-9ad9siW6GLZDLiQ/view?usp=sharing">THE LIVING WORLD</a></li>
+                <li><a href="https://drive.google.com/file/d/1SujWY-1PPm4Rf0-onjISuwmPOCTtN8j1/view?usp=sharing">BIOLOGICAL CLASSIFICATION</a></li>
+                <li><a href="https://drive.google.com/file/d/1QN4-w6ocjncICAXV2TmAmNp7ZUb_NHvu/view?usp=sharing">PLANT KINGDOM</a></li>
+                <li><a href="https://drive.google.com/file/d/1q-4eXsg-EsK5Znz9EhviHbPoiP50DBAz/view?usp=sharing">ANIMAL KINGDOM</a></li>
+                <li><a href="https://drive.google.com/file/d/1_w9D9bj0P0mkJMcAnIiofiy3bz1YloYB/view?usp=sharing">MORPHOLOGY OF FLOWERING PLANTS</a></li>
+                <li><a href="https://drive.google.com/file/d/1lhhKqySPaCj3bmszjaM6P8ibo66ymvu6/view?usp=sharing">ANATOMY OF FLOWERING PLANTS</a></li>
+                <li><a href="https://drive.google.com/file/d/1HhF37zvlafkfhj8qlcHodCSsErdIrDhS/view?usp=sharing">STRUCTURAL ORGANISATION IN ANIMALS</a></li>
+                <li><a href="https://drive.google.com/file/d/1InsxiGEGE7WNLekYMg5TrR-FOMKh5sHj/view?usp=sharing">CELL.THE UNIT OF LIFE</a></li>
+                <li><a href="https://drive.google.com/file/d/1DJf07ugV7dn9WFUnK4AzldRdD5Nu9oUz/view?usp=sharing">BIOMOLECULES</a></li>
+                <li><a href="https://drive.google.com/file/d/1aC5nfLM3fIBoiPNjNv5VpT1TzjBe6cZs/view?usp=sharing">CELL CYCLE AND CELL DIVISION</a></li>
+                <li><a href="https://drive.google.com/file/d/1akZB47m93M2pHoAmy7JEZCJw6sVP5pH7/view?usp=sharing">TRANSPORT IN PLANTS</a></li>
+                <li><a href="https://drive.google.com/file/d/1NRjEQXlZpoSgXzjW5GE4qLE2caNjGc2v/view?usp=sharing">MINERAL NUTRITION</a></li>
+                <li><a href="https://drive.google.com/file/d/1YR_kYtjJ_W2rFgl9JZIZaE6ir6AFTGOV/view?usp=sharing">PHOTOSYNTHESIS IN HIGHER PLANTS</a></li>
+                <li><a href="https://drive.google.com/file/d/1-4WNUUN1u8hJgQRHlrOM3XfI76MIau9r/view?usp=sharing">RESPIRATION IN PLANTS</a></li>
+                <li><a href="https://drive.google.com/file/d/1o__7jGfpk8lN50UEWZgkE2xhTU5JNqMB/view?usp=sharing">PLANT GROWTH AND DEVELOPMENT</a></li>
+                <li><a href="https://drive.google.com/file/d/19QvTOmWOgjM8EoFX_lFwDLekr4DmsDU0/view?usp=sharing">DIGESTION AND ABSORPTION</a></li>
+                <li><a href="https://drive.google.com/file/d/1crvPggrpl17gEvRez_bWBPPHWOTGWBcs/view?usp=sharing">BREATHING AND EXCHANGE OF GASES</a></li>
+                <li><a href="https://drive.google.com/file/d/10ydxv_Vs6E2E_N0cBY2ibtgB9peu2_7L/view?usp=sharing">BODY FLUIDS AND CIRCULATION</a></li>
+                <li><a href="https://drive.google.com/file/d/1Cb5gKZkfVj6Gu9v2H9ejU5akZYc0-74z/view?usp=sharing">EXCRETORY PRODUCTS AND THEIR ELIMINATION</a></li>
+                <li><a href="https://drive.google.com/file/d/1xKg_5lUHPX2ZO0TUO0ptrL2YeyAoKCks/view?usp=sharing">LOCOMOTION AND MOVEMENT</a></li>
+                <li><a href="https://drive.google.com/file/d/131tCNFH2qo-x8eJBCtjI8KW-4x7QK-cu/view?usp=sharing">NEURAL CONTROL AND COORDINATION</a></li>
+                <li><a href="https://drive.google.com/file/d/1gGlmjT7Lk9KmuR9VtASAKQu38eSKwOfV/view?usp=sharing">CHEMICAL COORDINATION AND INTEGRATION</a></li>
            </ul>
         </section>
         <section id="XII BIOLOGY">
